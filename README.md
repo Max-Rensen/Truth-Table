@@ -1,6 +1,7 @@
 # truth_table
 
 An application that generates a truth table with all the possible outcomes for a given expression.
+This project was originally for a contest where all the code should be less than 5 KB, but I was not able to upload it successfully.
 
 ## How to use it
 
